@@ -1,10 +1,10 @@
-# File Operation
-**1.cd: Change directory.**
-   cd /path/to/directory
-**2.pwd: Print the current working directory.**
-    pwd
-**3.cp: Copy files or directories.**
-    cp file1.txt file2.txt
+# File Operation  
+**1.cd: Change directory.**  
+   cd /path/to/directory  
+**2.pwd: Print the current working directory.**  
+    pwd  
+**3.cp: Copy files or directories.**  
+    cp file1.txt file2.txt   
 **4.mv: Move or rename files or directories.**
     mv file1.txt new_location/
 **5.rm: Remove files or directories.**
